@@ -59,6 +59,23 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "label": "Fort McMurray",
+        "title": "Fort McMurray"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.37939453125,
+          56.74067435475299
+        ]
+      }
     }
   ]
 }
